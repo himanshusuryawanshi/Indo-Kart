@@ -1,5 +1,10 @@
 # Indo-Kart
-Indo-Kart is a fully responsive e-commerce website with integration of _Payment Gateway_.
+Indo-Kart is a fully responsive e-commerce website built using Django Framework that helps user to purchase
+things online, add items to cart and filter items.
+
+User can make their Shopping Profile, add one or more Address.
+
+User can make Payment with Payment Gateway.
 
 ***
 ## How to run on a Local Machine
