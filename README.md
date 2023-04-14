@@ -33,5 +33,12 @@ git clone https://github.com/himanshusuryawanshi/Indo-Kart.git
 python manage.py runserver
 ```
 
-***
+## Demo
 
+Landing Page
+
+![Landing Page](./Demo/Landing_page.png)
+
+Mobile Page
+
+![Mobile Page](./Demo/Mobile%20page.png)
