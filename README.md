@@ -34,8 +34,4 @@ python manage.py runserver
 ```
 
 ***
-## Demo
-
-#### Images
-![ss1]()
 
