@@ -9,7 +9,6 @@ Indo-Kart is a fully responsive e-commerce website with integration of _Payment 
 git clone https://github.com/himanshusuryawanshi/Indo-Kart.git
 
 ```
-***
 2. Create a Virtual Environment
     * If you don't have virtualenv installed on local machine
     ```
@@ -23,7 +22,7 @@ git clone https://github.com/himanshusuryawanshi/Indo-Kart.git
     ```
     .\venv\Scripts\activate
     ```
-***
+
 3. Install all dependencies in virtual environment
  ```
  pip install -r requirements.txt
@@ -33,4 +32,10 @@ git clone https://github.com/himanshusuryawanshi/Indo-Kart.git
 ```
 python manage.py runserver
 ```
+
+***
+## Demo
+
+#### Images
+![ss1]()
 
